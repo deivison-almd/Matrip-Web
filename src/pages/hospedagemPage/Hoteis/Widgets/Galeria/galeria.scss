@@ -1,0 +1,18 @@
+.gridItens {
+  height: 700px;
+  width: 1400px;
+  margin: 40px auto;
+  // box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-color: #FFFFFF;
+
+
+  .gridPhotos {
+    width: 50%;
+    height: 70%;
+    float: right;
+    margin: 50px;
+    overflow-y: scroll;
+  }
+}
+
+//sx={{ width: 500, height: 450 }} cols={3} rowHeight={164}

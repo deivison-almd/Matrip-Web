@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bodyCarousel {
+  // max-width: 30%;
+
+  flex-grow: 1;
+  // margin: 10rem auto;
+  margin: auto;
+
+  .styleTransition {
+    img {
+      width: 30px;
+      margin: auto;
+    }
+  }
+}

@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  // background-image: url(../../public/images/fundo.jpg);
+  // background-repeat: no-repeat;
+  // background-size: cover;
+  // background-position: center;
+
+  .boxContainer {
+    background-color: black;
+  }
+
+  .toolBar {
+    // background-color: #099995;
+    background-color: #121225;
+
+    h3 {
+      margin-left: 30px;
+    }
+
+    .logoMatrip {
+      width: 70px;
+    }
+
+    .searchIcon {
+      margin-left: 100px;
+    }
+    .iconButton {
+      color: white;
+    }
+  }
+}
